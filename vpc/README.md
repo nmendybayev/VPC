@@ -8,18 +8,5 @@ In this configuration of Terraform uses an S3 bucket as a remote backend for the
 
 2. Create VPC
 
-## Structure:
-
-.
-├── 0-provider.tf
-├── 1-vpc.tf
-├── 2-igw.tf
-├── 3-subnets.tf
-├── 4-nat.tf
-├── 5-routes.tf
-├── 6-outputs.tf
-├── 7-variables.tf
-├── README.md
-
 Useful links:
 https://www.davidc.net/sites/default/subnets/subnets.html
